@@ -2,7 +2,7 @@ Hi this is a Math Assistant
  1.This project introduces a voice-activated AI assistant designed for visually
  impaired individuals to solve mathematical problems on computers. Activated by
  pressing the space bar on a PC or laptop, the assistant greets users and awaits spoken
- commands, eliminating the need for traditional Braille inputs.
+ commands, eliminating the need for traditional  Braille inputs.
  The system converts spoken mathematical queries into text using advanced
  speech recognition. AI21 processes this text to generate precise solutions, which are
  communicated audibly through text-to-speech conversion, facilitating seamless
