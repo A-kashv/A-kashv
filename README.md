@@ -1,5 +1,5 @@
 Hi this is a Math Assistant 
- 1.This project introduces a voice-activated AI assistant designed for visually
+1.This project introduces a voice-activated AI assistant designed for visually
  impaired individuals to solve mathematical problems on computers. Activated by
  pressing the space bar on a PC or laptop, the assistant greets users and awaits spoken
  commands, eliminating the need for traditional  Braille inputs.
