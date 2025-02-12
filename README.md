@@ -7,7 +7,7 @@ Hi this is a Math Assistant
  speech recognition. AI21 processes this text to generate precise solutions, which are
  communicated audibly through text-to-speech conversion, facilitating seamless
  interaction.
- 2.Key components :include integration with pynput for keyboard input detection,
+ 2.Key components:include integration with pynput for keyboard input detection,
  pyttsx3 for text-to-speech synthesis, and speech_recognition for accurate speech-to-text
  conversion. 
  3.These technologies empower visually impaired users to independently
